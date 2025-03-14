@@ -22,7 +22,9 @@ We can also compare the language distribution of comments between the first trai
 Sentiment Analysis
 ---
 A key challenge in this analysis was the multilingual nature of the comments. After research ([here](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/youtube_comment_analysis.ipynb)), I decided to analyze sentiments using only the three predominant languages in the comments: Ukrainian, English, and Russian.
-![sentiment_analysis_plot_1](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_5.png)
+<p align="center">
+  <img src="https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_5.png" />
+</p>
 
 Detailed sentiment distribution by language is shown below.
 ![sentiment_analysis_plot_2](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_6.png)
