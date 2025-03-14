@@ -12,9 +12,9 @@ The plots illustrate the changes in YouTube statistics (views, likes, and commen
 ![second_eda_youtube_stat_plot](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_2.png)
 
 Let's examine the overall language distribution of comments from the Stalker 2 trailers.
-
-![third_eda_plot](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_3.png)
-
+<p align="center">
+  ![third_eda_plot](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_3.png)
+</p>
 We can also compare the language distribution of comments between the first trailer (S.T.A.L.K.E.R. 2 – Trailer #1) and the latest (S.T.A.L.K.E.R. 2: Heart of Chornobyl — Gone Gold).
 
 ![fourth_eda_plot](https://github.com/elch1k/stalker_2_youtube_comments_analysis/blob/main/images/stalker_project_plot_4.png)
