@@ -5,3 +5,5 @@ STALKER_comments_sentiment.csv
 STALKER_comments_translate.csv
 STALKER_video_stat.csv
 comment_youtube.csv
+notebook_fixer.py
+.venv/
